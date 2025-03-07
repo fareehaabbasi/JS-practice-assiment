@@ -65,13 +65,14 @@
 
 // console.log((5 * 2) / 2 + 1);
 
-let studentPresent = ("nita")
-let Name = prompt("Name of the student");
 
-if(Name === studentPresent) {
-    console.log("this student is present");
-}else{
-    console.log("this students is absent");
+// let studentPresent = ("ali")
+// let Name = prompt("Name of the student");
+
+// if(Name === studentPresent) {
+//     console.log("this student is present");
+// }else{
+//     console.log("this students is absent");
     
-}
+// }
 
